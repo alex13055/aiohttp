@@ -1,3 +1,3 @@
 # aiohttp
 Запуск кода:
-python main.py
+$python main.py
