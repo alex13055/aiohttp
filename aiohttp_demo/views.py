@@ -1,5 +1,6 @@
 from aiohttp import web
 import aiohttp_jinja2
+from init_db import connection_mysql_news
 
 async def news(reguest):
     return web.Response(text = 'Hello, news!')
