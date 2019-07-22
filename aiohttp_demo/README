@@ -1,2 +1,3 @@
+db.py - создание таблиц в БД MySQL
 Запуск кода:
 $python main.py
